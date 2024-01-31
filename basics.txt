@@ -1,0 +1,7 @@
+git status-to check status
+git add __.txt-untracked file k staging area me dalne ke liye
+git commit -m "________"-to commit
+git log-is used to generate id
+cat __.txt-to check what we have written in vi
+clear-to clear the what is writen on the screen
+
